@@ -61,7 +61,7 @@ body {
   }
 }
 @media (max-width: 992px) {
-  .display-4 {
+  .display-4:not(.nav-link) {
     font-size: 0.66rem;
   }
 }
@@ -1402,45 +1402,6 @@ a {
   color: white;
   background: black;
   border-color: black;
-}
-.cid-se8Kfq1UEH {
-  padding-top: 105px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-se8Kfq1UEH h1 {
-  background-color: transparent;
-  overflow: hidden;
-  display: inline-block;
-  color: transparent;
-  line-height: 1;
-}
-.cid-se8Kfq1UEH span {
-  background-image: url("../../../assets/images/mbr-1920x1482.jpg");
-  background-size: 1920px 600px;
-  background-position: center;
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-  display: block;
-  animation: scroll 14s infinite linear;
-  pointer-events: none;
-}
-@keyframes scroll {
-  0% {
-    background-position-y: 0px;
-  }
-  99.999% {
-    background-position-y: -600px;
-  }
-  100% {
-    background-position-y: 0px;
-  }
-}
-.cid-se8Kfq1UEH .mbr-section-title {
-  color: #ffffff;
-}
-#instagram-feed-block-1t .inst__title {
-  color: #000000;
 }
 .cid-se8Ql7JXN0 {
   padding-top: 225px;
