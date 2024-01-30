@@ -1035,6 +1035,29 @@ a {
 .cid-s5s5x8vQcg H1 {
   text-align: center;
 }
+.cid-s5s5x8vQcg audio {
+  width: 300px;
+  max-width: 90%;
+  height: 50px;
+  display: table-cell;
+  transition: all 0.5s linear;
+  box-shadow: 2px 2px 4px 0px #006773;
+  border-radius: 30px;
+  background-color: white;
+  opacity: 0.8;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+.cid-s5s5x8vQcg audio::-webkit-media-controls-panel {
+  background-color: white;
+}
+.cid-s5s5x8vQcg audio:hover,
+.cid-s5s5x8vQcg audio:focus,
+.cid-s5s5x8vQcg audio:active {
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.4);
+  transform: scale(1.05);
+}
 .cid-se8LgvocQ7 {
   padding-top: 0px;
   padding-bottom: 0px;
