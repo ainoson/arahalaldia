@@ -1038,10 +1038,10 @@ a {
 .cid-s5s5x8vQcg audio {
   width: 300px;
   max-width: 90%;
-  height: 50px;
+  height: 30px;
   display: table-cell;
   transition: all 0.5s linear;
-  box-shadow: 2px 2px 4px 0px #006773;
+  box-shadow: 2px 2px 4px 0px #51a320;
   border-radius: 30px;
   background-color: white;
   opacity: 0.8;
