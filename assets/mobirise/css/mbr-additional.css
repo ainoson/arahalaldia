@@ -2,14 +2,14 @@ body {
   font-family: DM Sans;
 }
 .display-1 {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 10rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 16rem;
 }
 .display-2 {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 5rem;
   line-height: 1.3;
 }
@@ -17,7 +17,7 @@ body {
   font-size: 8rem;
 }
 .display-4 {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 1.1rem;
   line-height: 1.4;
 }
@@ -25,7 +25,7 @@ body {
   font-size: 1.76rem;
 }
 .display-5 {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 1.8rem;
   line-height: 1.4;
 }
@@ -33,7 +33,7 @@ body {
   font-size: 2.88rem;
 }
 .display-7 {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
@@ -558,7 +558,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 1.2rem;
 }
 .form-control > .mbr-iconfont {
@@ -1214,7 +1214,7 @@ a {
   line-height: 1;
 }
 .cid-u1PvxzUNwp span {
-  background-image: url("../../../assets/images/mbr-9-1920x1280.jpg");
+  background-image: url("../../../assets/images/verde-dial.svg");
   background-size: 1920px 600px;
   background-position: center;
   -webkit-text-fill-color: transparent;
@@ -2087,7 +2087,7 @@ a {
 }
 .cid-s5WhYL7oap .mbr-section-subtitle,
 .cid-s5WhYL7oap .title-align {
-  color: #51a320;
+  color: #4fa312;
 }
 .cid-s5WhYL7oap H1 {
   color: #27307e;
@@ -2228,7 +2228,7 @@ a {
 .cid-se9aCUKc5G {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/img-6553-1024x932.jpg");
 }
 .cid-se9aCUKc5G .row-links {
   width: 100%;
@@ -2727,7 +2727,7 @@ a {
 .cid-se9aCUKc5G {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/img-6553-1024x932.jpg");
 }
 .cid-se9aCUKc5G .row-links {
   width: 100%;
@@ -3226,7 +3226,7 @@ a {
 .cid-se9aCUKc5G {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/img-6553-1024x932.jpg");
 }
 .cid-se9aCUKc5G .row-links {
   width: 100%;
@@ -3725,7 +3725,7 @@ a {
 .cid-se9aCUKc5G {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/img-6553-1024x932.jpg");
 }
 .cid-se9aCUKc5G .row-links {
   width: 100%;
@@ -4359,7 +4359,7 @@ a {
 .cid-se9aCUKc5G {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/img-6553-1024x932.jpg");
 }
 .cid-se9aCUKc5G .row-links {
   width: 100%;
@@ -4975,7 +4975,7 @@ a {
 .cid-se9aCUKc5G {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/img-6553-1024x932.jpg");
 }
 .cid-se9aCUKc5G .row-links {
   width: 100%;
