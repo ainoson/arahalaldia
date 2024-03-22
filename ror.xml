@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://arahalaldia.com/</title>
+  <link>http://arahalaldia.com/</link>
+
+<item>
+     <link>https://www.arahalaldia.com/</link>
+     <title>Inicio</title>
+     <description>Arahal al día es un espacio con toda la información de Arahal. Cada mañana en la 99.0 FM encontrarás entretenimiento, concursos, entrevistas y la mejor música de cadena Dial Europa.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.arahalaldia.com/index.html</link>
+     <title>Inicio</title>
+     <description>Arahal al día es un espacio con toda la información de Arahal. Cada mañana en la 99.0 FM encontrarás entretenimiento, concursos, entrevistas y la mejor música de cadena Dial Europa.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.arahalaldia.com/anunciate.html</link>
+     <title>Anúnciate</title>
+     <description>Anúnciate en cadena Dial y haz que todo el mundo de Arahal y la comarca te conozcan. </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.arahalaldia.com/servicios-web.html</link>
+     <title>Servicios Web</title>
+     <description>Tener web propia es fácil y económico: Desde 25€ al mes (más IVA) tendrás tu Web completa desde el primer día.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.arahalaldia.com/aviso-legal.html</link>
+     <title>Aviso legal</title>
+     <description>Aviso legal</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.arahalaldia.com/politica-de-privacidad.html</link>
+     <title>Política de privacidad</title>
+     <description>Política de privacidad</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.arahalaldia.com/politica-de-cookies.html</link>
+     <title>Política de cookies</title>
+     <description>Política de cookies</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
