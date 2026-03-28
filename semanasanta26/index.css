@@ -1283,8 +1283,9 @@
   }
 
   .u-section-4 .u-text-2 {
-    margin-left: auto;
-    margin-right: auto;
+    width: auto;
+    margin-left: 21px;
+    margin-right: 21px;
   }
 }
 
@@ -1301,7 +1302,6 @@
   }
 
   .u-section-4 .u-text-2 {
-    width: auto;
     margin: 21px 30px -1362px;
   }
 }
@@ -1662,7 +1662,7 @@
 
   .u-section-7 .u-text-2 {
     width: auto;
-    margin: 21px 30px -1362px;
+    margin: 16px 0 0;
   }
 }
 
@@ -2387,14 +2387,15 @@
 @media (max-width: 767px) {
   .u-section-13 .u-text-1 {
     font-size: 5rem;
-    width: 400px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 35px;
+    margin-right: 35px;
   }
 
   .u-section-13 .u-text-2 {
     width: auto;
-    margin: 21px 30px -1362px;
+    margin-top: 21px;
+    margin-left: 30px;
+    margin-right: 30px;
   }
 }
 
@@ -2405,7 +2406,6 @@
 
   .u-section-13 .u-text-1 {
     font-size: 3.625rem;
-    width: auto;
     margin-top: 40px;
     margin-left: 0;
     margin-right: 0;
@@ -3113,21 +3113,20 @@
 @media (max-width: 767px) {
   .u-section-19 .u-text-1 {
     font-size: 5rem;
-    width: 400px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-top: 30px;
+    margin-left: 35px;
+    margin-right: 35px;
   }
 
   .u-section-19 .u-text-2 {
     width: auto;
-    margin: 21px 30px -1362px;
+    margin: 22px 30px 23px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-19 .u-text-1 {
     font-size: 3.75rem;
-    width: auto;
     margin-top: 39px;
     margin-left: 0;
     margin-right: 0;
@@ -3836,14 +3835,13 @@
 @media (max-width: 767px) {
   .u-section-25 .u-text-1 {
     font-size: 5rem;
-    width: 400px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-25 .u-text-2 {
     width: auto;
-    margin: 21px 30px -1362px;
+    margin: 21px 30px 23px;
   }
 }
 
@@ -3854,10 +3852,7 @@
 
   .u-section-25 .u-text-1 {
     font-size: 3.4375rem;
-    width: auto;
     margin-top: 40px;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-25 .u-text-2 {
